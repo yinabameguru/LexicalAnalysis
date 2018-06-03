@@ -1,0 +1,32 @@
+public class ImputFile {
+	//aaa
+	double num1 = 1.5;
+	int num2 = 1;
+	int num3 = 3;
+	int num4 = 4;
+	num4 = 1;
+	String s  = "aaa";
+	char c = 'c';
+	int[1][1][1] array = {{{1},{1}},{{1},{1}}};
+	public static void function1(String[] args) {
+		double num1 = 1.5;
+		int num2 = 1;
+		if(num1 == num2){
+			while(true){
+				num2 = 2;
+			}
+		}
+		for (int i = 0; i < 3; i++) {
+				num2 = num3+1;
+			}
+		
+	}
+	public static void function2(String[] args) {
+		double num1 = 1.5;
+		int num2 = 1;
+		int num4 = 4;
+		num4 = 1;
+		this.num4 =1;
+	}
+
+}
